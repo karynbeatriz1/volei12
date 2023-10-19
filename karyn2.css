@@ -1,0 +1,29 @@
+.volei22{
+   width: 430px;
+   height: 492px;
+   border-radius: 12px;
+   margin-top: 12px;
+}
+.volei33{
+    width: 430px;
+   height: 492px;
+   border-radius: 12px;
+   margin-top: 12px;
+}
+img{
+    height: 84px;
+    width: 141px;
+   
+}
+.voleibol{
+    display: flex;
+    justify-content: center; 
+    gap: 183px;
+}
+.card{
+    width: 568px;
+    height: 725px;
+    text-align: center;
+    background: #d9d9d9;
+    border-radius: 12px;
+}
